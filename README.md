@@ -2,12 +2,13 @@
 The flutter keyboard alternative that defaults to having problems on Samsung devices
 
 ---
+
 <p>
 <img height="500" src="https://raw.githubusercontent.com/gilang-as/flutter-custom-keyboard/master/screenshot1.png">
 <img height="500" src="https://raw.githubusercontent.com/gilang-as/flutter-custom-keyboard/master/screenshot2.png">
 </p>
----
 
+---
 # Flutter Custom Keyboard
 
 ## Introduction
